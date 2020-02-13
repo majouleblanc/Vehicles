@@ -4,7 +4,7 @@ exam project.<br/>
 vehicule api project.<br/>
 test vehicule api.<br/>
 
-<h1>Technologies</h1>
+<h1>Technologies used</h1>
 <ul>
   <li>Asp Net Core MVC</li>
   <li>Entity Framework</li>
